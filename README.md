@@ -55,6 +55,11 @@ Open http://localhost:3001/
 
 ## Usage
 
+DEMO VIDEO
+
+
+
+
 Open insomnia
 Send the following request for each route:
 For User 
