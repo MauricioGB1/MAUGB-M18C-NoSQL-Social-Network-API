@@ -63,24 +63,59 @@ DEMO VIDEO
 Open insomnia
 Send the following request for each route:
 For User 
-GET all users
-GET user by id
-POST create user
-PUT update user
-DEL delete user
+
+- GET all users
+
+![alt text](./assets/get-all-users.jpg)
+
+
+- GET user by id
+
+![alt text](./assets/get-user-by-id.jpg)
+
+- POST create user
+
+![alt text](./assets/post-create-user.jpg)
+
+
+- PUT update user
+
+![alt text](./assets/put-update-user.jpg)
+
+- DEL delete user
+
+![alt text](./assets/del-delete-user.jpg )
+
 For Friends
-POST  add a friend
-DEL remove a friend
+
+- POST  add a friend
+
+![alt text](./assets/post-add-friend.jpg )
+
+- DEL remove a friend
+
+![alt text](./assets/del-remove-friend.jpg)
+
 
 For Thoughts
-POST create thought.
-GET all thoughts.
-GET thought by id
-PUT update thought. 
-DEL delete thought
-:
 
-![alt text](assets/images/screenshot.png)
+- POST create thought.
+
+![alt text](./assets/post-create-thought.jpg )
+
+- GET all thoughts.
+
+![alt text](./assets/get-all-thoughts.jpg)
+
+- GET thought by id
+
+- PUT update thought. 
+
+- DEL delete thought
+
+- Create a Reaction
+
+![alt text](./assets/post-create-reaction4.jpg )
 
 ## Credits
 
