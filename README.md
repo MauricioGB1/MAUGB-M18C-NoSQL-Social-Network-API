@@ -57,8 +57,7 @@ Open http://localhost:3001/
 
 DEMO VIDEO
 
-
-
+[https://github.com/MauricioGB1/MAUGB-M18C-NoSQL-Social-Network-API/tree/main/demo-video](https://github.com/MauricioGB1/MAUGB-M18C-NoSQL-Social-Network-API/tree/main/demo-video)
 
 Open insomnia
 Send the following request for each route:
