@@ -64,12 +64,12 @@ Open insomnia
 Send the following request for each route:
 For User 
 
-- GET all users
+` - GET all users `
 
 ![alt text](./assets/get-all-users.jpg)
 
 
-- GET user by id
+` - GET user by id `
 
 ![alt text](./assets/get-user-by-id.jpg)
 
@@ -78,42 +78,42 @@ For User
 ![alt text](./assets/post-create-user.jpg)
 
 
-- PUT update user
+` - PUT update user `
 
 ![alt text](./assets/put-update-user.jpg)
 
-- DEL delete user
+` - DEL delete user `
 
 ![alt text](./assets/del-delete-user.jpg )
 
-For Friends
+` For Friends `
 
-- POST  add a friend
+` - POST  add a friend `
 
 ![alt text](./assets/post-add-friend.jpg )
 
-- DEL remove a friend
+` - DEL remove a friend `
 
 ![alt text](./assets/del-remove-friend.jpg)
 
 
-For Thoughts
+` For Thoughts `
 
-- POST create thought.
+` - POST create thought. `
 
 ![alt text](./assets/post-create-thought.jpg )
 
-- GET all thoughts.
+` - GET all thoughts. `
 
 ![alt text](./assets/get-all-thoughts.jpg)
 
-- GET thought by id
+` - GET thought by id `
 
-- PUT update thought. 
+` - PUT update thought.  `
 
-- DEL delete thought
+` - DEL delete thought `
 
-- Create a Reaction
+` - Create a Reaction `
 
 ![alt text](./assets/post-create-reaction4.jpg )
 
